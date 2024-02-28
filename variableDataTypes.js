@@ -25,3 +25,17 @@ console.log(isComing);
 
 
 
+// Type of***
+var km = 50;
+console.log(typeof km)
+// ans :- number
+
+var country = "Bangladesh";
+console.log(typeof country)
+// ans :- string
+
+var passed = false;
+console.log(typeof passed)
+// ans :- boolean
+
+
