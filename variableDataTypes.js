@@ -1,4 +1,4 @@
-// String type variable
+// String type variable***
 var name1 = 'tanvir';
 console.log(name1);
 // ans :-  tanvir
@@ -8,7 +8,20 @@ console.log(name2);
 // ans :-  hasan
 
 
-// Number type variable
+// Number type variable***
 var boyos = 20;
 console.log(boyos)
 // ans :- 20
+
+
+// Boolean type variable***
+var isGoing = true;
+console.log(isGoing)
+// ans :- true
+
+var isComing = false;
+console.log(isComing);
+// ans :- false
+
+
+
