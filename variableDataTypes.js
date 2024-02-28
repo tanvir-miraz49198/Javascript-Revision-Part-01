@@ -9,3 +9,6 @@ console.log(name2);
 
 
 // Number type variable
+var boyos = 20;
+console.log(boyos)
+// ans :- 20
